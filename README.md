@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! I am John Newman. 👋
+I am a physician with background in engineering living and working in Jamaica.
+
+- 🌱 I am currently learning Python and Django, Javascript and Vuejs and Nuxt.
+- 🔭 I am currently creating apps that link medicine with technology, especially with Electronic Medical Records (EMRs).
 
 <!--
 **JNTNewman/JNTNewman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
